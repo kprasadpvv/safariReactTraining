@@ -1,0 +1,18 @@
+.person {
+  display: inline-table;
+  margin: 20px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 150px;
+  height: 250px;
+  padding: 20px;
+}
+
+.closeButton {
+  float: right;
+  margin: 2px;
+  box-shadow: 0 2px 2px #ccc;
+  font-weight: 700;
+  cursor: pointer;
+  color:red;
+}
